@@ -17,7 +17,6 @@ The driver accounts get a notification for the order sent by the company along w
 They can then either accpet or reject the order. If rejected, it will be sent to the nex driver.
 Drivers can update the status of the order which will be instantly sent to the customers as a notification to their account
 
-A more robust project report has been added to the repository that further describe the research, architecture, workflow and other factors about the program
 
 To run the program:
 1. Import the SDI_Project.sql file into the database to initially setup the database
