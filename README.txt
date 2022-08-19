@@ -21,4 +21,4 @@ Drivers can update the status of the order which will be instantly sent to the c
 To run the program:
 1. Import the SDI_Project.sql file into the database to initially setup the database
 2. Change the connection information in the mainwindow.cpp file at lines 134, 135, 136, 137
-3. The prgram should run after these steps and a green text saying "conected" should appear at the bottom right of the screen
+3. The program should run after these steps and a green text saying "conected" should appear at the bottom right of the screen
