@@ -5,16 +5,16 @@ It was created using C++ for the backend and QMake for its user interface
 
 The program features use cases for three different users- customers, drivers and the shipping company
 Users will be able to register under any of the three account types. 
-Drivers will need to verify theier profile by providing their license and lorry registration number
+Drivers will need to verify their  profile by providing their license and lorry registration number
 
 Customers can place orders, for which they will provide information about the product weight, pick up and delivery locations, type of goods, and additional comments. 
 They will be provided with a cost for their delivery
 
-Once a customer places an order, the company account users get notified about the order along with the fess they will receive. 
+Once a customer places an order, the company account users get notified about the order along with the fees they will receive. 
 The company can then assign those orders to drivers 
 
-The driver accounts get a notification for the order sent by the company along with teh commission they will recieve, the pick up and delivery location. 
-They can then either accpet or reject the order. If rejected, it will be sent to the nex driver.
+The driver accounts get a notification for the order sent by the company along with the commission they will recieve, the pick up and delivery location. 
+They can then either accpet or reject the order. If rejected, it will be sent to the next available driver.
 Drivers can update the status of the order which will be instantly sent to the customers as a notification to their account
 
 
