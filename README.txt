@@ -1,7 +1,7 @@
 Author: Ahnaf Azad
 
 This is an e-Transport Marketplace created for Ubuntu Linux as a project for my Software Design and Implementation module. 
-It was created using C++ for the backend and QMake for its user interface 
+It was created using C++ for the backend, SQL for the database and QMake for its user interface 
 
 The program features use cases for three different users- customers, drivers and the shipping company
 Users will be able to register under any of the three account types. 
@@ -14,7 +14,7 @@ Once a customer places an order, the company account users get notified about th
 The company can then assign those orders to drivers 
 
 The driver accounts get a notification for the order sent by the company along with the commission they will recieve, the pick up and delivery location. 
-They can then either accpet or reject the order. If rejected, it will be sent to the next available driver.
+They can then either accept or reject the order. If rejected, it will be sent to the next available driver.
 Drivers can update the status of the order which will be instantly sent to the customers as a notification to their account
 
 
